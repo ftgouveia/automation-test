@@ -40,8 +40,11 @@ Desafio 2
 
 O fluxo mais importante é a efetivação de um pedido então foi o fluxo que automatizei. Coloquei um comentário no final do teste
 pois não finalizei o pedido. Mas para mim o mais importante de tudo é a efetivação do pedido.
+Eu fiz o teste automatizado mais simples possível, mas o importante é validar os valores, os dados, alterações do pedido, as restrições ao realizar um pedido,
+os métodos de pagamentos selecionados entre outros.
 Neste teste indiretamente testa o login.
 Nas o correto é ter um teste para cada funcionalidade e depois esse integrado para validar o cenário completo.
+OBS: Colocar um login e senha válidos no teste.
 
 
 O teste mobile eu usaria o Appium para realizar as validações, com um build do APK e executando os testes sobre esta versão.
